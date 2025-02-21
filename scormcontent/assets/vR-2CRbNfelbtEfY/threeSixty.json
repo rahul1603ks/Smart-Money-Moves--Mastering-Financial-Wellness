@@ -1,0 +1,27 @@
+{
+  "version": "3.95.33670.0",
+  "course_id": "5n9UMqd6x1t",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Module 1"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5tmCzsRmr2f",
+      "title": "Module 2",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
