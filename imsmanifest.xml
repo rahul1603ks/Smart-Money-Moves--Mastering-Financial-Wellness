@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<manifest identifier="XKYhrb2xxh7VTojQELYTUs2m2Pn9iz3X2yZgpQju" version="1"
+<manifest identifier="XKYhrb2xxh7VTojQELYTUs2m2Pn9iz3Xlb1YioQZ" version="1"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -15,7 +15,7 @@
       <title>Smart Money Moves: Mastering Financial Wellness</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
         <title>Smart Money Moves: Mastering Financial Wellness</title>
-        <adlcp:datafromlms>eyJjcHYiOiIyeVpncFFqdSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+        <adlcp:datafromlms>eyJjcHYiOiJsYjFZaW9RWiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
       </item>
     </organization>
   </organizations>
@@ -130,7 +130,7 @@
 <file href="scormcontent/assets/small.png" />
 <file href="scormcontent/assets/oiEqmLewzj8_WoSD.jpg" />
 <file href="scormcontent/assets/Picture%201.png" />
-<file href="scormcontent/assets/ODjde_/quote_background.jpg" />
+<file href="scormcontent/assets/rsV8ye/quote_background.jpg" />
 <file href="scormcontent/assets/Money%20Stree%20Round.png" />
 <file href="scormcontent/assets/Money%20Man%20Round.png" />
 <file href="scormcontent/assets/FW_1%28New%29.jpg" />
@@ -141,7 +141,7 @@
 <file href="scormcontent/assets/Spend%20Round.png" />
 <file href="scormcontent/assets/Aditi.jpg" />
 <file href="scormcontent/assets/Impact%20Round.png" />
-<file href="scormcontent/assets/APlYmt/story.html" />
+<file href="scormcontent/assets/El7CRE/story.html" />
 <file href="scormcontent/assets/New_2.jpg" />
 <file href="scormcontent/assets/mms2.jpg" />
 <file href="scormcontent/assets/mms3.png" />
@@ -156,7 +156,7 @@
 <file href="scormcontent/assets/Conversion%20rate%20optimization-pana.png" />
 <file href="scormcontent/assets/Finance-pana.png" />
 <file href="scormcontent/assets/DALL%C2%B7E%202025-02-21%2013.40.46%20-%20A%20photorealistic%20image%20of%20a%20cozy%20home%20office%20with%20a%20friendly.jpg" />
-<file href="scormcontent/assets/2mVOJp/avatar.jpg" />
+<file href="scormcontent/assets/gV2JhH/avatar.jpg" />
 
       <file href="scormcontent/locales/und.js" />
 
